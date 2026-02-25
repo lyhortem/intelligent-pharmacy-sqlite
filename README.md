@@ -20,5 +20,5 @@ This repository contains a lightweight pharmacy management system developed usin
 Preprint available on TechRxiv (link will be added after submission).
 
 ## Author
-Your Name  
-ORCID: https://orcid.org/XXXX-XXXX-XXXX-XXXX
+Lyhor TEM  
+ORCID: https://orcid.org/0009-0002-1129-5249
